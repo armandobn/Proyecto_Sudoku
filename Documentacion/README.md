@@ -20,7 +20,7 @@ Encuentra los elementos comunes o números iguales  entre 3 vectores.
 Extrae el sudoku de 9x9, lo convierte en 9 vectores con sus respectivos resultados
 </br>
 
-6. **Ver soduko** Muestra el soduko completo, la cual contiene 9 cuadros 3x3, cada cuadro contiene 9 cuadros de 3x3.
+6. **VerSoduko** Muestra el soduko completo, la cual contiene 9 cuadros 3x3, cada cuadro contiene 9 cuadros de 3x3.
 </br>
 
 7. **Final_Soduko** Comprueba que todas las casillas del soduko estén llenas con los números del 1 al 9
